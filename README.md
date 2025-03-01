@@ -20,7 +20,7 @@ This is a Netflix clone web application built with React, CSS, and integrated wi
 ## ![Screenshot 2025-02-17 202649](https://github.com/user-attachments/assets/86de8669-47e0-49d7-b948-5d0aba6dea5c)
 
 ##Live Demo
-[Watch the demo here]([http://your-live-demo-link.com](https://net-flix-743829.netlify.app/))
+https://net-flix-743829.netlify.app/
 
 ## Setup Instructions
  Install Dependencies
