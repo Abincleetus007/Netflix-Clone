@@ -1,4 +1,4 @@
-![Screenshot 2025-04-24 093945](https://github.com/user-attachments/assets/ebf08f35-3ce8-4e90-9a3b-ef513f78b1a9)# 🎬 Nitflix - Netflix Clone
+# 🎬 Nitflix - Netflix Clone
 
 Nitflix is a modern, responsive Netflix clone built using React and integrates with the TMDB API to stream movie and TV show trailers, display trending content, and let users explore by genre. Built with a sleek UI and deployed on Netlify.
 
